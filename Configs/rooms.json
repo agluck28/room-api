@@ -1,0 +1,10 @@
+{
+    "rooms": {
+        "3CB80FEC-03D8-47D0-8E8E-39B36666863B": {
+            "name": "Room1",
+            "temperature_humidity": ["BF7C0F5B-7A30-4991-A6D9-32A1B9A9763D"],
+            "bond": ["BF7C0F5B-7A30-4991-A6D9-32A1B9A9763D"],
+            "hue": ["BF7C0F5B-7A30-4991-A6D9-32A1B9A9763D"]
+        }
+    }
+}
